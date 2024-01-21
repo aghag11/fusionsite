@@ -1,0 +1,53 @@
+/* style.css */
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Sidebar Styles */
+.sidebar .sidebar-content {
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 10px;
+}
+
+/* Header Styles */
+h1 {
+    color: #0e76a8;
+}
+
+h2 {
+    color: #4a4a4a;
+}
+
+/* Button Styles */
+.stButton>button {
+    color: #fff;
+    background-color: #0e76a8;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+/* Slider Styles */
+.stSlider .st-bb {
+    background-color: #0e76a8;
+}
+
+/* Plotly Chart Styles */
+.dashboard .element-container .block-container .element .reportview-container .main .block-container {
+    background-color: #fff;
+}
+
+/* Tabs Styles */
+.stTabs {
+    border-bottom: 2px solid #0e76a8;
+}
+
+.stTabs > button {
+    color: #0e76a8;
+}
+
+/* Add custom styles for other elements as needed */
